@@ -1,2 +1,7 @@
 ethtool is a small utility for examining and tuning your ethernet-based
-network interface.  See the man page for more details.
+network interface.  See the man page for more details. Also, this 
+new line is added by us to show that we want to create conflict.
+
+In addition, there is extra paragraph added here.
+
+Besides, we have additional line added here.

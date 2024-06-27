@@ -1,1 +1,4 @@
-Good Morning to Alexa
+Good Morning to Alexa.
+
+Alexa is a smart system that can understand how
+ethtool is used and suggest command tips.
